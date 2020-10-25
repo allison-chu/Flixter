@@ -20,9 +20,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="flixter.gif" width=250><br>
+<img src="Flixter.gif" width=250><br>
 
-### Challennges
+### Challenges
 -Emulator wouldn't read any of the JSON
 -Android Studio was super laggy
 -Emulator wouldn't quic on it's own sometimes so I'd need to go into Activity Monitor to force quit
